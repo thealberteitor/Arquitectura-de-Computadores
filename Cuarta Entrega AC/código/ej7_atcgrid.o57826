@@ -1,0 +1,67 @@
+Id/home/E1estudiante8 usuario de trabajo: E1estudiante8
+Id/home/E1estudiante8 de trabajo: 57826.atcgrid
+Nombre del trabajo dado por el usuario: ej7_atcgrid
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/E1estudiante8
+Cola: ac
+Nodos asignados al trabajo: 
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+static y chunk por defecto
+Tiempo: 0.093330
+Componente(0,0): 0
+Componente (15359,15359): -1545585664
+static y chunk 1
+Tiempo: 0.093290
+Componente(0,0): 0
+Componente (15359,15359): -1545585664
+static y chunk 64
+Tiempo: 0.079064
+Componente(0,0): 0
+Componente (15359,15359): -1545585664
+dynamic y chunk por defecto
+Tiempo: 0.078977
+Componente(0,0): 0
+Componente (15359,15359): -1545585664
+dynamic y chunk 1
+Tiempo: 0.077643
+Componente(0,0): 0
+Componente (15359,15359): -1545585664
+dynamic y chunk 64
+Tiempo: 0.072263
+Componente(0,0): 0
+Componente (15359,15359): -1545585664
+guided y chunk por defecto
+Tiempo: 0.075097
+Componente(0,0): 0
+Componente (15359,15359): -1545585664
+guided y chunk 1
+Tiempo: 0.068472
+Componente(0,0): 0
+Componente (15359,15359): -1545585664
+guided y chunk 64
+Tiempo: 0.075108
+Componente(0,0): 0
+Componente (15359,15359): -1545585664

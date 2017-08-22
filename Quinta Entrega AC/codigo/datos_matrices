@@ -1,0 +1,32 @@
+Código normal. Optimización -O0
+Tiempo(seg.):0.678293	 / Tamaño:500	/ 
+Código normal. Optimización -O1
+Tiempo(seg.):0.286881	 / Tamaño:500	/ 
+Código normal. Optimización -O2
+Tiempo(seg.):0.136773	 / Tamaño:500	/ 
+Código normal. Optimización -O3
+Tiempo(seg.):0.132732	 / Tamaño:500	/ 
+Código normal. Optimización -Os
+Tiempo(seg.):0.227980	 / Tamaño:500	/ 
+-----------------------------------------------
+Código optimizado A. Optimización -O0
+Tiempo(seg.):0.518593	 / Tamaño:500	/ 
+Código optimizado A. Optimización -O1
+Tiempo(seg.):0.222232	 / Tamaño:500	/ 
+Código optimizado A. Optimización -O2
+Tiempo(seg.):0.085855	 / Tamaño:500	/ 
+Código optimizado A. Optimización -O3
+Tiempo(seg.):0.041926	 / Tamaño:500	/ 
+Código optimizado A. Optimización -Os
+Tiempo(seg.):0.086257	 / Tamaño:500	/ 
+-----------------------------------------------
+Código optimizado B. Optimización -O0
+Tiempo(seg.):0.390359	 / Tamaño:500	/ 
+Código optimizado B. Optimización -O1
+Tiempo(seg.):0.134065	 / Tamaño:500	/ 
+Código optimizado B. Optimización -O2
+Tiempo(seg.):0.122982	 / Tamaño:500	/ 
+Código optimizado B. Optimización -O3
+Tiempo(seg.):0.123044	 / Tamaño:500	/ 
+Código optimizado B. Optimización -Os
+Tiempo(seg.):0.132009	 / Tamaño:500	/ 

@@ -1,0 +1,70 @@
+Id/home/E1estudiante8 usuario de trabajo: E1estudiante8
+Id/home/E1estudiante8 de trabajo: 57834.atcgrid
+Nombre del trabajo dado por el usuario: pmm-OpenMP
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/E1estudiante8
+Cola: ac
+Nodos asignados al trabajo: 
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+Paralelo 2 threads
+Tiempo: 0.001656
+Componente(0,0): 0
+Componente(99,99): 81021600
+Tiempo: 0.184808
+Componente(0,0): 0
+Componente(499,499): 252600448
+Tiempo: 5.507932
+Componente(0,0): 0
+Componente(999,999): 2073477872
+Tiempo: 19.900514
+Componente(0,0): 0
+Componente(1499,1499): 1811923920
+Paralelo 4 threads
+Tiempo: 0.000932
+Componente(0,0): 0
+Componente(99,99): 81021600
+Tiempo: 0.096483
+Componente(0,0): 0
+Componente(499,499): 252600448
+Tiempo: 2.793094
+Componente(0,0): 0
+Componente(999,999): 2073477872
+Tiempo: 10.046269
+Componente(0,0): 0
+Componente(1499,1499): 1811923920
+Paralelo 6 threads
+Tiempo: 0.001209
+Componente(0,0): 0
+Componente(99,99): 81021600
+Tiempo: 0.096614
+Componente(0,0): 0
+Componente(499,499): 252600448
+Tiempo: 1.847310
+Componente(0,0): 0
+Componente(999,999): 2073477872
+Tiempo: 6.766402
+Componente(0,0): 0
+Componente(1499,1499): 1811923920
